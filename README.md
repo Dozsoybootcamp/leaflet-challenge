@@ -15,11 +15,7 @@ Interactive popups displaying detailed information about each earthquake.
 Legend providing context for depth levels.
 Screenshots
 
-## Screenshots
-
-Here is a screenshot of the earthquake visualization map:
-
-![Map Screenshot](screenshots/Screenshot2024-08-11.png)
+## Screenshot provided in the screenshot folder
 
 
 Technologies Used
